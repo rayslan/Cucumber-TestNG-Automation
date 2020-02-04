@@ -14,7 +14,7 @@ Feature: UIC Website Test
       | Libraries            |
       | Global Engagement    |
 
-  @UIC
+  
   Scenario: UIC home page test
     Given I am on the UIC main homepage
     When I hover over the ABOUT menu
